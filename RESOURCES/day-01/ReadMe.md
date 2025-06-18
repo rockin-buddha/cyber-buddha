@@ -7,6 +7,6 @@ Being the first day, today I won't be learning anything new
 Stay Tuned for day 02
 ```
 ---
-***[DAY 02](../day-02/readme.md) : INTRODUCTION TO CYBER SECURITY and NETWORKING***    
+***[DAY 02](../day-02/ReadMe.md) : INTRODUCTION TO CYBER SECURITY and NETWORKING***    
 ---
 **HOPING TO SEE YOU THERE...**
