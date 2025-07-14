@@ -39,14 +39,14 @@
 - OSI model breaks down the different components of Network Communication into Layers to make the communication Easier
 - OSI is an ISO Standard model that describes 7 layers a computer system use to communicate over the Network
 - Generic and Protocol-Independent Standard
-![[MODULE_1/IMAGES/OSI.png]]
+![OSI](MODULE_1/IMAGES/OSI.png)
 
 # TCP/IP
 ---
 - Implementation of OSI Model
 - Has 4 Layers
 - Used as the protocol for the Internet
-![[MODULE_1/IMAGES/OSI.png]]
+![OSI](MODULE_1/IMAGES/OSI.png)
 ## TCP/IP PROTOCOL SUITE
 ---
 + TCP : TRANSMISSION CONTROL PROTOCOL
@@ -57,7 +57,7 @@
 	+ TRANSMITTED
 	+ ROUTED
 	+ RECEIVED
-![[MODULE_1/IMAGES/TCP-IP.png]]
+![TCP IP](MODULE_1/IMAGES/TCP-IP.png)
 
 >[!IMPORTANT]
 >LAYERS OF DIFFERENT PROTOCOLS SHOULD **ALWAYS** BE **REFERENCED** TO **OSI MODEL**
@@ -282,7 +282,7 @@
 		- Identifies the network portion of the address
 		- Identifies the systems that are located on the same subnet
 	- **HOST ADDRESS** : Identifies a specific host within a network (Subnet)
-![[MODULE_1/IMAGES/IP-Subnet.png]]
+![IP SUBNET](MODULE_1/IMAGES/IP-Subnet.png)
 - Every router interface defines an IP subnet
 - All hosts in the same subnet shares a common subnet address
 - In the figure, there is a router with 3 network interfaces. Hence 3 subnets are defined
