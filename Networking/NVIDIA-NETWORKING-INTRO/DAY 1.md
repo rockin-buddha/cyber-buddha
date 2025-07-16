@@ -39,14 +39,17 @@
 - OSI model breaks down the different components of Network Communication into Layers to make the communication Easier
 - OSI is an ISO Standard model that describes 7 layers a computer system use to communicate over the Network
 - Generic and Protocol-Independent Standard
-![OSI](IMAGES/OSI.png)
-
+      
+![OSI](IMAGES/OSI.png)     
+     
 # TCP/IP
 ---
 - Implementation of OSI Model
 - Has 4 Layers
-- Used as the protocol for the Internet
-![OSI](IMAGES/OSI.png)
+- Used as the protocol for the Internet     
+     
+![OSI](IMAGES/OSI.png)     
+     
 ## TCP/IP PROTOCOL SUITE
 ---
 + TCP : TRANSMISSION CONTROL PROTOCOL
@@ -57,6 +60,7 @@
 	+ TRANSMITTED
 	+ ROUTED
 	+ RECEIVED
+               
 ![TCP IP](IMAGES/TCP-IP.png)
 
 >[!IMPORTANT]
