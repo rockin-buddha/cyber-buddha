@@ -92,7 +92,7 @@
 	- Traffic forwarding to a single destination can occur over multiple paths
 	- Increased bandwidth by load-balancing traffic over multiple paths
 
-![](IMAGES/Redundancy.png)
+	     ![](IMAGES/Redundancy.png)
 
 - Consider Host A communicates with Host C, the path is via Spine 1. When the link between Leaf 1 and Spine 1 fails, there is another available path via Spine 2 that can now be used for traffic forwarding. Idea of a redundant network design is that there is an active path and the backup path. If the active path fails, the backup path takes over.
 - Since there are two available paths, using them at the same time will allow for load balancing the traffic, hence providing twice the bandwidth and better resource utilization. This is the advantage of multipath support. Multipath is a strategy where traffic forwarding to a single destination can occur over multiple paths. It can increase bandwidth by load-balancing traffic over multiple paths. However, it may be difficult to deploy it. 
