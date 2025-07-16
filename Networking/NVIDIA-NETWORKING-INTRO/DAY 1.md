@@ -286,7 +286,9 @@
 		- Identifies the network portion of the address
 		- Identifies the systems that are located on the same subnet
 	- **HOST ADDRESS** : Identifies a specific host within a network (Subnet)
-![IP SUBNET](IMAGES/IP-Subnet.png)
+       
+![IP SUBNET](IMAGES/IP-Subnet.png)     
+     
 - Every router interface defines an IP subnet
 - All hosts in the same subnet shares a common subnet address
 - In the figure, there is a router with 3 network interfaces. Hence 3 subnets are defined
